@@ -1,0 +1,77 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+159.138.5.154,13000,80,false,HKG,Asia Pacific,Hong Kong,35,0.36
+124.243.151.131,30318,80,false,ATL,North America,Atlanta,50,0.35
+124.243.151.131,30314,80,false,MIA,North America,Miami,12,0.34
+119.8.118.175,38080,0,false,HKG,Asia Pacific,Hong Kong,39,0.34
+124.243.151.131,30569,80,false,ORD,North America,Chicago,20,0.33
+124.243.151.131,30107,80,false,BOS,North America,Boston,27,0.32
+110.238.110.71,32318,80,false,LAX,North America,Los Angeles,2,0.30
+124.243.151.131,30538,80,false,EWR,North America,Newark,2,0.28
+124.243.151.131,30302,80,false,MIA,North America,Miami,2,0.26
+122.8.191.95,1998,80,false,IAH,North America,Houston,216,0.26
+124.243.151.131,30501,80,false,DEN,North America,Denver,2,0.24
+110.238.110.71,32319,80,false,EWR,North America,Newark,1,0.23
+124.243.151.131,30166,80,false,MIA,North America,Miami,2,0.21
+159.138.99.208,8686,80,false,SIN,Asia Pacific,Singapore,5,0.21
+124.243.151.131,30358,80,false,LAS,North America,Las Vegas,2,0.20
+124.243.151.131,30503,80,false,MSP,North America,Minneapolis,2,0.20
+124.243.151.131,30341,80,false,ORD,North America,Chicago,2,0.17
+124.243.151.131,30337,80,false,SEA,North America,Seattle,2,0.17
+49.0.203.235,32319,80,false,DFW,North America,Dallas,2,0.12
+119.13.100.244,32356,80,false,ATL,North America,Atlanta,1,0.12
+49.0.207.122,32319,80,false,DFW,North America,Dallas,1,0.12
+124.243.151.131,30325,80,false,ORD,North America,Chicago,1,0.11
+159.138.2.15,5010,80,false,SJC,North America,San Jose,39,0.09
+159.138.97.72,32311,80,false,YYZ,North America,Toronto,1,0.09
+94.74.96.163,5010,80,false,SJC,North America,San Jose,38,0.09
+124.243.151.131,30554,80,false,SEA,North America,Seattle,2,0.08
+110.238.110.71,32320,80,false,LAX,North America,Los Angeles,1,0.08
+124.243.151.131,30132,80,false,SJC,North America,San Jose,30,0.06
+159.138.2.15,5008,80,false,SJC,North America,San Jose,38,0.05
+124.243.151.131,30365,80,false,LAX,North America,Los Angeles,1,0.03
+124.243.151.131,30559,80,false,ORD,North America,Chicago,2,0.03
+159.138.139.128,80,0,false,HKG,Asia Pacific,Hong Kong,38,0.00
+124.243.151.131,30527,80,false,DFW,North America,Dallas,2,0.00
+119.13.100.244,32336,80,false,EWR,North America,Newark,2,0.00
+159.138.97.72,32312,80,false,MAN,Europe,Manchester,3,0.00
+124.243.147.243,9000,0,false,SIN,Asia Pacific,Singapore,171,0.00
+119.13.107.88,80,0,false,SIN,Asia Pacific,Singapore,2,0.00
+159.138.130.158,2812,0,false,HKG,Asia Pacific,Hong Kong,35,0.00
+94.74.102.190,3001,0,false,HKG,Asia Pacific,Hong Kong,42,0.00
+94.74.69.34,3000,0,false,LAX,North America,Los Angeles,227,0.00
+119.8.1.121,80,0,false,LAX,North America,Los Angeles,227,0.00
+122.8.191.70,3001,0,false,LAX,North America,Los Angeles,213,0.00
+101.44.2.164,8001,0,false,SCL,South America,Santiago,358,0.00
+119.8.160.130,32320,80,false,LAX,North America,Los Angeles,1,0.00
+119.8.160.130,32356,80,false,LAX,North America,Los Angeles,1,0.00
+94.74.86.255,32333,80,false,IAD,North America,Ashburn,1,0.00
+119.8.166.141,32356,0,false,LAX,North America,Los Angeles,1,0.00
+190.92.216.212,9080,0,false,SIN,Asia Pacific,Singapore,1,0.00
+119.8.166.141,32320,80,false,LAX,North America,Los Angeles,1,0.00
+124.243.151.131,30536,80,false,LAX,North America,Los Angeles,2,0.00
+110.238.106.41,7074,0,false,SIN,Asia Pacific,Singapore,2,0.00
+119.8.160.130,32315,80,false,SIN,Asia Pacific,Singapore,2,0.00
+124.243.151.131,30321,0,false,LAX,North America,Los Angeles,2,0.00
+94.74.86.255,32315,80,false,SIN,Asia Pacific,Singapore,3,0.00
+124.243.151.131,30362,80,false,LAX,North America,Los Angeles,4,0.00
+159.138.2.15,5042,80,false,SJC,North America,San Jose,31,0.00
+94.74.116.52,8087,0,false,BKK,Asia Pacific,Bangkok,31,0.00
+119.13.94.32,54321,0,false,HKG,Asia Pacific,Hong Kong,32,0.00
+119.13.93.66,8080,80,false,HKG,Asia Pacific,Hong Kong,34,0.00
+159.138.2.15,5017,80,false,SJC,North America,San Jose,35,0.00
+190.92.254.177,9004,80,false,HKG,Asia Pacific,Hong Kong,35,0.00
+159.138.49.195,8030,80,false,HKG,Asia Pacific,Hong Kong,35,0.00
+190.92.254.177,9074,80,false,HKG,Asia Pacific,Hong Kong,36,0.00
+94.74.96.163,5007,80,false,SJC,North America,San Jose,38,0.00
+190.92.254.177,9040,80,false,HKG,Asia Pacific,Hong Kong,38,0.00
+190.92.254.177,9042,80,false,HKG,Asia Pacific,Hong Kong,38,0.00
+119.8.57.85,26834,0,false,LAX,North America,Los Angeles,38,0.00
+190.92.254.177,9040,80,false,HKG,Asia Pacific,Hong Kong,39,0.00
+190.92.254.177,9074,80,false,HKG,Asia Pacific,Hong Kong,41,0.00
+159.138.2.15,5013,80,false,SJC,North America,San Jose,42,0.00
+190.92.254.177,9004,80,false,HKG,Asia Pacific,Hong Kong,44,0.00
+94.74.125.174,7070,0,false,HKG,Asia Pacific,Hong Kong,45,0.00
+190.92.254.177,9042,80,false,HKG,Asia Pacific,Hong Kong,71,0.00
+119.8.78.40,30984,80,false,GRU,South America,São Paulo,353,0.00
+119.8.77.94,30984,80,false,GRU,South America,São Paulo,359,0.00
+119.8.79.208,30984,80,false,GRU,South America,São Paulo,433,0.00
