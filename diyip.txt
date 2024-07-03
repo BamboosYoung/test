@@ -1,1 +1,10 @@
-1.2.3.4:21#test*39.99
+bestcf.onecf.eu.org#官方优选域名-Mingyu大佬提供维护
+bestproxy.onecf.eu.org#反代优选域名-Mingyu大佬提供维护
+cfip.xxxxxxxx.tk#官方优选域名-OTC大佬提供维护
+proxy.xxxxxxxx.tk#反代优选域名-OTC大佬提供维护
+acjp2.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
+acsg.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
+acsg3.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
+xn--b6gac.eu.org#↗↘↗.eu.org官方优选域名
+cdn-all.xn--b6gac.eu.org#cdn-all.↗↘↗.eu.org官方优选域名
+cdn-b100.xn--b6gac.eu.org#cdn-b100.↗↘↗.eu.org反代优选域名
